@@ -1,6 +1,8 @@
 # datafun-06-eda
 
-This is an exploratory data analysis for Module 6. 
+This is an exploratory data analysis for Module 6 using the Seaborn "Planets" dataset.
+
+https://github.com/mwaskom/seaborn-data/blob/master/planets.csv
 
 This will include using the following libraries:
 
