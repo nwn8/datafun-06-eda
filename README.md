@@ -10,3 +10,8 @@ pandas
 pyarrow
 matplotlib
 seaborn
+
+The workbook is nates_eda.ipynb
+
+Instructions for opening and activating a virtual environment and installing dependencies and libraries are in requirements.txt
+
